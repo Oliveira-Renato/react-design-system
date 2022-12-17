@@ -9,7 +9,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 
-Acesse o site clicando [aqui](https://oliveira-renato.web.app/) e confira você mesmo.
+Acesse o site clicando [aqui](https://oliveira-renato.github.io/react-design-system/?) e confira você mesmo.
 
 
 ## :scroll: Lincense
