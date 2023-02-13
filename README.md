@@ -1,5 +1,7 @@
 # React Design System
 
+React Design System é um ecossistema de componentes programados e padrões semânticos de design, que reúne padrões de comportamentos. Projeto desenvolvido durante o Ignite Lab 03, oferecido pela Rocketseat.
+
 ## :test_tube: Tecnologias 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 * _[React](https://reactjs.org/)_
